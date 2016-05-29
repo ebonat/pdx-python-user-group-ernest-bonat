@@ -1,0 +1,9 @@
+Time Stamp,File Name,Procedure Name,Error Message,Error Type,Line Number,Line Code
+2016-I03-28 08:39:30 AM,abc.csv,abc,the error message,critical,100,var = time
+2016-I03-28 08:43:15 AM,abc.csv,abc,the error message,critical,100,var = time
+2016-I03-28 08:43:47 AM,abc.csv,abc,the error message,critical,100,var = time
+2016-I03-28 10:19:52 AM,abc.csv,abc,the error message,critical,100,var = time
+2016-I03-28 10:20:23 AM,abc.csv,abc,the error message,critical,100,var = time
+2016-I03-28 10:20:54 AM,abc.csv,abc,the error message,critical,100,var = time
+2016-I03-28 10:41:21 AM,abc.csv,abc,the error message,critical,100,var = time
+2016-I03-28 10:41:21 AM,abc.csv,public_library.write_csv_file(),the error message,critical,100,var = time
